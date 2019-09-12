@@ -1,0 +1,9 @@
+{
+  "name": "oop",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "5.2.0",
+    "react": "16.9.0"
+  },
+  "scripts": {}
+}
