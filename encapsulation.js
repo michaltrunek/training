@@ -10,7 +10,7 @@ function Product(_name, _price) {
 }
 
 function Book(_name, _price, _author) {
-    Product.call(this, _name, _price);
+    Product.call(this, _name, _price); // inheritance example
     const author = _author;
     this.getAuthor = () => { return author; }
 }
@@ -22,8 +22,8 @@ function Basket() {
     this.addProduct = function(amount, product) {
         products.push(...Array(amount).fill(product))
     };
-    this.calcTotal = () => { return products.map(product => product.getPrice()).reduce(reducer) };
-    this.printShoppingInfo = () => {console.log('one has to pay in total: ' + this.calcTotal());};
+    let calcTotal = () => { return products.map(product => product.getPrice()).reduce(reducer) }; // abstraction example
+    this.printShoppingInfo = () => {console.log('one has to pay in total: ' + calcTotal());};
 }
 
 // create new objects (new instances of classes)

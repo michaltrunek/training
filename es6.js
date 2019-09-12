@@ -8,7 +8,7 @@ class Product {
     }
 }
 
-class Book extends Product {
+class Book extends Product { // inheritance example
     constructor(name, price, author) { super(name, price); this.author = author }
 }
 
