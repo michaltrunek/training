@@ -28,3 +28,13 @@ function Song(_songName, bandName){
 const nothingElseMatters = new Song('Nothing Else Matters', 'Metallica');
 console.log(nothingElseMatters.getSongInfo());
 */
+
+/*
+* Useful information:
+* Why function name for the class start with a capital letter?
+* It is convention; it helps to distinguish between a regular function and a class.
+*
+* What is this?
+* It's an arbitrary placeholder object that lives in the scope.
+* Every scope has a this object! It's simply a placeholder that points to the current object.
+* */
