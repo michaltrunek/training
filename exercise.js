@@ -14,20 +14,18 @@
 4. todo: make songName private
 * */
 
-/*
 function Song(_songName, bandName){
     // properties
     const songName = _songName;
     this.getSongName = () => { return songName; };
     this.bandName = bandName;
 
-    let countName = () => { return 'Calculate the words in: ' + this.getSongName() };
+    let countName = () => { return this.getSongName().match(/\b[-?(\w+)?]+\b/gi).length };
     this.getSongInfo = () => {return 'Name of the band is: ' + this.bandName + ' and the words count in the song is: ' + countName()}
 }
 
 const nothingElseMatters = new Song('Nothing Else Matters', 'Metallica');
 console.log(nothingElseMatters.getSongInfo());
-*/
 
 /*
 * Useful information:
