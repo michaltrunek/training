@@ -1,0 +1,12 @@
+{
+    "welcome": "Willkommen, %{username}",
+    "sign_up": "Jetzt anmelden",
+    "email": "E-Mail",
+    "upload_image": "Bitte PNG-Datei hochladen",
+    "callback_function": "Bitte Rückruffunktion bereitstellen",
+    "upload": "Hochladen einer Datei hier von Lokalise % %1$s",
+    "download": "Bitte Datei herunterladen % %1$s",
+    "cancel": "Jetzt stornieren",
+    "cancel_btn": "Stornieren",
+    "next_btn1": "Nächste bitte"
+}

@@ -1,0 +1,12 @@
+{
+    "welcome": "blabla",
+    "sign_up": "",
+    "email": "",
+    "upload_image": "",
+    "callback_function": "",
+    "upload": "Odovzdáva sa sem súbor z Lokalise% %1$s",
+    "download": "Sťahuje sa súbor, prosím% %1$s",
+    "cancel": "Zrušiť teraz !",
+    "cancel_btn": "Zrušiť",
+    "next_btn1": "Ďalšie"
+}

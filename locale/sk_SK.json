@@ -1,0 +1,12 @@
+{
+    "welcome": "Vitajte, %{username}",
+    "sign_up": "Zaregistrujte sa teraz",
+    "email": "E-mail",
+    "upload_image": "Nahrajte súbor PNG",
+    "callback_function": "Zadajte funkciu spätného volania",
+    "upload": "Odovzdáva sa sem súbor z Lokalise% %1$s",
+    "download": "Sťahuje sa súbor, prosím% %1$s",
+    "cancel": "Zrušiť teraz !",
+    "cancel_btn": "Zrušiť",
+    "next_btn1": "Ďalšie"
+}
