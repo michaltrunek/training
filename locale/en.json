@@ -1,0 +1,10 @@
+{
+    "sign_up": "Sign Up Now",
+    "email": "E-mail",
+    "cancel": "Cancel now",
+    "welcome": "Welcome, %{username}",
+    "upload_image": "Please upload PNG file",
+    "callback_function": "Please provide callback function",
+    "upload": "Uploading a file here from Lokalise %%1$s",
+    "download": "Downloading file please %%1$s"
+}
