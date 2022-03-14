@@ -1,0 +1,7 @@
+{
+    "Test": "Test",
+    "cancel": "Cancel now",
+    "email": "E-mail",
+    "sign_up": "Sign Up Now",
+    "welcome": "Welcome, %{username}"
+}
