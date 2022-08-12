@@ -1,0 +1,9 @@
+{
+    "incentive": "",
+    "signup_button": "",
+    "welcome_header": "",
+    "sign_up": "Зарегистрироваться сейчас",
+    "email": "E-mail",
+    "cancel": "Отменить сейчас",
+    "welcome": "Добро пожаловат, %{username}"
+}
